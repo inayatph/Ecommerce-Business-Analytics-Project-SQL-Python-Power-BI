@@ -1,6 +1,13 @@
 # Urban Nest Retail - End to End Business Analytics Project
 Sales, Customer, and Demand Forecasting Analytics for an Ecommerce Retailer 
 
+<img width="923" height="525" alt="image" src="https://github.com/user-attachments/assets/53265bcf-0664-46a0-b49e-b935e8868b90" />
+
+
+
+
+
+
 ## 1. Business Problem
 
 **Urban Nest Retail** is a fictional multi-category ecommerce company (Furniture, Office Supplies, Home Décor, Electronics Accessories) simulating ₹340 Cr in annual revenue with a hybrid B2C/B2B model. Despite 51.57% YoY revenue growth, gross margin compressed from 10% to 11%, and leadership had no unified view of **why**.
