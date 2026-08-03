@@ -4,6 +4,7 @@ Sales, Customer, and Demand Forecasting Analytics for an Ecommerce Retailer
 <img width="923" height="525" alt="image" src="https://github.com/user-attachments/assets/53265bcf-0664-46a0-b49e-b935e8868b90" />
 
 
+<img width="907" height="519" alt="image" src="https://github.com/user-attachments/assets/7a03fb52-e640-4772-aa58-3719e51246a5" />
 
 
 
